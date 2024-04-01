@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:rgb(146, 145, 158);
+}
+pre,p,div{
+    color:rgb(53, 36, 130);
+    text-align:center;
+    font-size: 20px;
+
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVQKhv5CpckyQB4_YfER9eu6lYhQeG_dPsg&s");
+    background-size: cover;
+    background-position: transparent;
+}
+img{
+    height: 200px;
+    width:200px;
+    border:2px;
+    border-radius:500px;
+    margin-left: 400px;
+    margin-top:5px;
+
+}
+h3{
+    text-align: center;
+    color:azure;
+}
+.heading{
+    color:antiquewhite;
+}
